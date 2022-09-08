@@ -1,30 +1,23 @@
 # Projecto de Desenvolvimento Móvel 2022-2023
 
-## Project Briefing (L-EI)
+**Licenciatura**
 
-**DEGREE: Licenciatura**
-
-**YEAR/SEMESTER: 2021-2022 / 3º Semestre**
-
-**COORDENADOR: Pedro Rosa**
-
-**EMAIL:** [**pedro.rosa@universidadeeuropeia.pt**](mailto:pedro.rosa@universidadeeuropeia.pt)
+**Ano/Semestre: 2022-2023 / 3º Semestre**
 
 **PROJETO MULTIDISCIPLINAR:**
 
-**Programação Mobile (João Dias,** [**joao.alfredo.dias@universidadeeuropeia.pt**](mailto:joao.dias@universidadeeuropeia.pt)**);**
+- **Projecto Desenvolvimento Móvel** - Coordenação (Pedro Rosa, [pedro.rosa@universidadeeuropeia.pt](mailto:pedro.rosa@universidadeeuropeia.pt)
+- **Programação Mobile** (João Dias, [joao.alfredo.dias@universidadeeuropeia.pt](mailto:joao.dias@universidadeeuropeia.pt));
+- **Programação Orientada por Objetos (Miguel Bugalho,** [miguel.bugalho@universidadeeuropeia.pt](mailto:miguel.bugalho@universidadeeuropeia.pt));
+- **Bases de Dados (Miguel Boavida,** [miguel.boavida@universidadeeuropeia.pt](mailto:miguel.boavida@universidadeeuropeia.pt));
 
-**Programação Orientada por Objetos (Miguel Bugalho,** [**miguel.bugalho@universidadeeuropeia.pt**](mailto:miguel.bugalho@universidadeeuropeia.pt)**);**
-
-**Bases de Dados (Miguel Boavida,** [**miguel.boavida@universidadeeuropeia.pt**](mailto:miguel.boavida@universidadeeuropeia.pt)**);**
-
-**Competências Comunicacionais (Alexandra Santos,** [**alexandra.santos@universidadeeuropeia.pt**](mailto:alexandra.santos@universidadeeuropeia.pt)**);**
-
-**Matemática Discreta (Rodolfo Bendoyro,** [**rodolfo.bendoyro@universidadeeuropeia.pt**](mailto:rodolfo.bendoyro@universidadeeuropeia.pt)**)**
+*A Confirmar a continuidade:*
+- **Competências Comunicacionais (Alexandra Santos,** [alexandra.santos@universidadeeuropeia.pt](mailto:alexandra.santos@universidadeeuropeia.pt));
+- **Matemática Discreta (Rodolfo Bendoyro,** [rodolfo.bendoyro@universidadeeuropeia.pt](mailto:rodolfo.bendoyro@universidadeeuropeia.pt))
 
 ![](RackMultipart20220908-1-or3vcd_html_7b18828814bd6d8e.png)
 
-BRIEFING
+# Briefing
 
 **01\_ PROJECT DESCRIPTION/DESCRIÇÃO DO PROJECTO**
 
