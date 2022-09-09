@@ -96,7 +96,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
 
 ** Obrigatoriamente na 1ª Aula
 
-### 1st Delivery/ 1ª Entrega (1-3 semanas):**
+### 1st Delivery/ 1ª Entrega (1-3 semanas):
 
 - Submission/Data de Submissão: final da terceira semana ( 01.10.2021 às 23h59 )
 - Deliverables/Entregas:
@@ -118,7 +118,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Project Charter and WBS
   - Pitch
 
-### 2nd Delivery/ 2ª Entrega (4-9 semanas):**
+### 2nd Delivery/ 2ª Entrega (4-9 semanas):
 
 - Submission/Data de Submissão: final da nona semana ( 12.11.2021 às 23h59 )
 - Deliverables/Entregas:
@@ -138,7 +138,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Plano de trabalhos atualizado
   - Apresentação
 
-### 3th Delivery/ 3ª Entrega (10-14 semanas):**
+### 3th Delivery/ 3ª Entrega (10-14 semanas):
 
 - Submission/Data de Submissão: Submissão na plataforma Canvas na data/hora da prova de avaliação contínua, marcada pela secretaria (última semana de aulas).
 - Presentation Date/Data da Apresentação: a agendar (uma semana a seguir à data de submissão)
@@ -165,7 +165,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Poster
   - Vídeo
 
-### Caso os prazos não sejam cumpridos:**
+### Caso os prazos não sejam cumpridos:
 
 Cada dia de atraso na entrega dos elementos de avaliação implica a perda de 1 valor na avaliação de cada unidade curricular, relativamente à respetiva entrega (i.e. 1 dia de atraso equivale a menos 1 valor por UC).
 
