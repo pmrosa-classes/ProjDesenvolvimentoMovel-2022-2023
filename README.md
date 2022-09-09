@@ -29,7 +29,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | 01 | 12/15 set | **Elaboração dos Grupos** |
 | 02 | 19/22 set | **Discussão dos temas dos trabalhos** |
 | 03 | 26/29 set | **Discussão dos temas dos trabalhos** |
-| 04 | 03/06 out |  |
+| 04 | 03/06 out | **Primeira Entrega** *até às 23:59* |
 | 06 | 10/13 out |  |
 | 07 | 17/20 out |  |
 | -- | 24/27 out | *Não há aulas de Projeto* |
@@ -37,7 +37,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | 08 | 31/03 nov |  |
 | 09 | 07/10 nov |  |
 | 10 | 14/17 nov |  |
-| 11 | 21/24 nov |  |
+| 11 | 21/24 nov | **Segunda Entrega** *até às 23:59*  |
 | 12 | 28/01 dez |  |
 | 13 | 05/08 dez |  |
 | 14 | 12/15 dez |  |
