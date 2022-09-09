@@ -50,13 +50,17 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 
 
 ## Tools
+- **Clickup** para Gestão de Projeto - fazer download no site do [ClickUp](https://www.clickup.com/)
+- **Discord** para comunicação com os Professores - [convite](https://discord.gg/hCa4njxc)
 
 ## Templates
+- Download do template do ClickUp
+- Template do Relatório Final
 
 ## Grupos
 
-Os projetos são em grupo (2 alunos no máximo) e deve ser preenchida a tarefa respetiva no Canvas até dia 16 de setembro.
-A contituição dos grupos será disponibilizada através deste *link* em Google Sheets (apenas identifica os alunos por número) 
+Os projetos são em grupo (3 alunos) e deve ser preenchida a tarefa respetiva no Canvas até dia 16 de setembro às 23:59.
+A contituição dos grupos será posteriromente disponibilizada através deste *link* em Google Sheets (apenas identifica os alunos por número) 
 
 ## Presenças
 
