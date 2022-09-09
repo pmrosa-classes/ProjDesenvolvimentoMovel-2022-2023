@@ -38,7 +38,7 @@ No final da unidade curricular, o aluno deverá ser capaz de:
 
 O projeto deve ter em conta os seguintes requisitos obrigatórios:
 
-- Os grupos são constituídos por 2 (dois) alunos
+- Os grupos são constituídos por 3 (três) alunos
   - Em avaliação final o projeto é individual salvo exceções devidamente autorizadas pelo corpo docente (ex: alunos que transitam da avaliação contínua onde o projeto tenha sido avaliado com um mínimo de 8.0 valores)
 - A escolha do projeto é da responsabilidade dos alunos com obrigatória validação dos docentes das unidades curriculares envolvidas
 - O projeto tem que ser implementado em Java (Programação Móvel e Programação Orientada Objeto) utilizando a tecnologia Spring Boot e as arquiteturas MVC e REST (em Programação Orientada a Objeto) e Android Studio Arctic Fox | 2020.3.1 Patch 2
@@ -110,7 +110,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - VER COM COMPETENCIAS COM. / PASSAR PARA A ULTIMA ENTREGA?: Entrega de vídeo com Pitch de 3 min com apresentação da proposta na semana seguinte no mesmo formato.
 - Avaliação (20%)
   - Progressos semanais
-  - VER!!!! Proposta de solução com cenários e personas
+  - VER!!!! Proposta de solução com pelo menos três cenários e personas
   - Plano de trabalhos
   - Requisitos funcionais e não funcionais
   - Modelo do domínio
