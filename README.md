@@ -25,13 +25,13 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 12/15 set |  |
-| 02 | 19/22 set |  |
-| 03 | 26/29 set |  |
+| 01 | 12/15 set | Aulas de 1h por turma: T01:seg-18:00->18:50 ; T02:qui-17:00->17:50. **Elaboração dos Grupos** |
+| 02 | 19/22 set | **Discussão dos temas dos trabalhos** |
+| 03 | 26/29 set | **Discussão dos temas dos trabalhos** |
 | 04 | 03/06 out |  |
 | 06 | 10/13 out |  |
 | 07 | 17/20 out |  |
-| -- | 24/27 out | Não há aulas de Projeto |
+| -- | 24/27 out | *Não há aulas de Projeto* |
 | 08 | 31/03 nov | Muda para aulas de 2h a partir desta data: T01:qui-17:00->18:50 ; T02:sex-12:30->14:20 |
 | 09 | 07/10 nov |  |
 | 10 | 14/17 nov |  |
@@ -39,11 +39,11 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | 12 | 28/01 dez |  |
 | 13 | 05/08 dez |  |
 | 14 | 12/15 dez |  |
-| -- | 19/22 dez | Férias de Natal |
-| -- | 26/29 dez | Férias de Natal |
-| 15 | 02/05 jan | Não há aulas de Projeto |
-| 16 | 09/12 jan | Aulas de 4h - Apresentações T01:ter-14:00->18:00; T02:qui-18:30->22:30|
-| 17 | 16/19 jan | Aulas de 4h - Apresentações |
+| -- | 19/22 dez | *Férias de Natal* |
+| -- | 26/29 dez | *Férias de Natal* |
+| 15 | 02/05 jan | *Não há aulas de Projeto* |
+| 16 | 09/12 jan | Aulas de 4h - **Apresentações** T01:ter-14:00->18:00; T02:qui-18:30->22:30|
+| 17 | 16/19 jan | Aulas de 4h - **Apresentações** T01:ter-14:00->18:00; T02:qui-18:30->22:30|
 
 
 ## Tools
