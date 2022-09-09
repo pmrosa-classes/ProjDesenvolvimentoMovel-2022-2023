@@ -107,10 +107,10 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
     - Uma versão preliminar com pelo menos três guiões de teste (descrição textual passo a passo do progresso do utilizador na aplicação)
       - 1 caso de utilização que descreva o objecto "core" do projeto
       - outros 2 casos de utilização diferentes do "core" e entre eles (podem partir do caso de utilização descrito anteriormente)
-  - Entrega de vídeo com Pitch de 3 min com apresentação da proposta na semana seguinte no mesmo formato.
+  - VER COM COMPETENCIAS COM. / PASSAR PARA A ULTIMA ENTREGA?: Entrega de vídeo com Pitch de 3 min com apresentação da proposta na semana seguinte no mesmo formato.
 - Avaliação (20%)
   - Progressos semanais
-  - Proposta de solução com cenários e personas
+  - VER!!!! Proposta de solução com cenários e personas
   - Plano de trabalhos
   - Requisitos funcionais e não funcionais
   - Modelo do domínio
@@ -122,9 +122,9 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
 
 - Submission/Data de Submissão: final da nona semana ( 12.11.2021 às 23h59 )
 - Deliverables/Entregas:
-  - Protótipo / Versão alfa do projeto com um servidor funcional e BD online
+  - Protótipo / Versão alfa do projeto com um servidor funcional, BD online e app com navegação e consumo de serviços
   - Versão atualizada do relatório de projeto na plataforma git, incluindo também:
-    - Definição final dos guiões e personas
+    - VER!!!! Definição final dos guiões e personas
     - Esboço do diagrama de classes no git (diagrama conceptual com foco nas entidades e relações entre elas)
     - Primeira versão da documentação REST adicionada ao relatório
     - Primeira versão do Dicionário de Dados com a descrição detalhada do Modelo Entidade-Relação,
@@ -154,7 +154,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Ficheiros para a criação da BD (create, populate e queries) na plataforma git
   - Código fonte (código java) disponível no GitHub
   - Suporte visual da apresentação (PPT ou outro), que não pode ultrapassar os 8 slides de conteúdo (i.e. excluindo capa)
-  - Vídeo de apresentação do projeto, com duração máxima de 2 minutos, que deve incluir um narrador a descrever o que se vai observando
+  - VER!!! Vídeo de apresentação do projeto, com duração máxima de 2 minutos, que deve incluir um narrador a descrever o que se vai observando
   - Apresentação oral (duração máxima 10 minutos, incluindo o visionamento do vídeo), com recurso ao suporte visual previamente entregue
 - Avaliação (50%):
   - Progressos semanais
