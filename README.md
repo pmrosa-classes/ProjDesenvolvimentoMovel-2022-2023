@@ -25,9 +25,20 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 
 ## Templates
 
+## Grupos
+
+Os projetos são em grupo (2 alunos no máximo) e deve ser preenchida a tarefa respetiva no Canvas até dia 16 de setembro.
+A contituição dos grupos será disponibilizada através deste *link* em Google Sheets (apenas identifica os alunos por número) 
+
 ## Presenças
 
+Os alunos podem acompanhar a percentagem de aulas a que assistem através da disponibilização pública, em Google Sheets, referente à sua turmas:
+- Presenças da T01
+- Presenças da T02
+
 ## Avaliação Continua
+
+Os alunos podem acompanhar a avaliação das diversas componentes, ao longo do semestre, através deste link em Google Sheets (apenas identifica os alunos por número).
 
 ## Log
 
