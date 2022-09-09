@@ -44,9 +44,9 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
 - O projeto tem que ser implementado em Java (Programação Móvel e Programação Orientada Objeto) utilizando a tecnologia Spring Boot e as arquiteturas MVC e REST (em Programação Orientada a Objeto) e Android Studio Arctic Fox | 2020.3.1 Patch 2
 - O projeto deve separar claramente o código em módulos com diferentes responsabilidades (serviços, modelos, acesso a dados, interfaces, etc) de acordo com o que será ensinado durante as aulas
 - É obrigatório usar as seguintes plataformas (a avaliação tem em conta a interação com estas plataformas, sendo que elas são usadas para uma monitorização diária do projeto):
-  - GitHub para gestão de versões e documentação em que a página de descrição do projeto contém a descrição e links para demais documentação do projeto;
-  - ClickUp para gestão do projeto;
-  - Slack para comunicação dentro da equipa de projeto.
+  - **GitHub** para gestão de versões e documentação em que a página de descrição do projeto contém a descrição e links para demais documentação do projeto;
+  - **ClickUp** para gestão do projeto;
+  - **Discord** para comunicação com alunos e equipa de projeto.
 - Na documentação deve ser incluído o diagrama de classes, o modelo ER da Base de Dados e a documentação REST. A documentação REST segue o formato indicado no seguinte site: https://bocoup.com/blog/documenting-your-api
 - A base de dados é obrigatoriamente relacional e desenvolvida em PosgreSQL:
   - Devem ser desenvolvidos vários ficheiros SQL a entregar nas milestones 2 e 3:
