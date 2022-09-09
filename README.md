@@ -43,7 +43,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | 14 | 12/15 dez |  |
 | -- | 19/22 dez | *Férias de Natal* |
 | -- | 26/29 dez | *Férias de Natal* |
-| 15 | 02/05 jan | *Não há aulas de Projeto*  **Terceira e última entrega** *até às 23:59 de dia 5 de janeiro* |
+| 15 | 02/05 jan | *Não há aulas de Projeto*.  **Terceira e última entrega** *até às 23:59 de dia 5 de janeiro* |
 |  |  | *Muda para aulas de 4h a partir desta data: T01:ter-14:00->18:00; T02:qui-18:30->22:30|
 | 16 | 09/12 jan | **Apresentações** |
 | 17 | 16/19 jan | **Apresentações** |
