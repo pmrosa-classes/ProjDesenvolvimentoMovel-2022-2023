@@ -4,6 +4,8 @@
 
 **Ano/Semestre: 2022-2023 / 3º Semestre**
 
+**Nota:** Conteudos pedagógicos e documentos com identificação completa dos alunos só serão colocados na plataforma oficial de LMS da Universidade (MyCanvas).
+
 ## Projeto Multidisciplinar:
 
 - **Projecto Desenvolvimento Móvel** - Coordenação (Pedro Rosa, [pedro.rosa@universidadeeuropeia.pt](mailto:pedro.rosa@universidadeeuropeia.pt)
