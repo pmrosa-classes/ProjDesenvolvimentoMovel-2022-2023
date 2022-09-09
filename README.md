@@ -26,7 +26,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 |  |  | *Aulas de 1h por turma: T01:seg-18:00->18:50 ; T02:qui-17:00->17:50* |
-| 01 | 12/15 set | Aulas de 1h por turma: T01:seg-18:00->18:50 ; T02:qui-17:00->17:50. **Elaboração dos Grupos** |
+| 01 | 12/15 set | **Elaboração dos Grupos** |
 | 02 | 19/22 set | **Discussão dos temas dos trabalhos** |
 | 03 | 26/29 set | **Discussão dos temas dos trabalhos** |
 | 04 | 03/06 out |  |
@@ -34,7 +34,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | 07 | 17/20 out |  |
 | -- | 24/27 out | *Não há aulas de Projeto* |
 |  |  | *Muda para aulas de 2h a partir desta data: T01:qui-17:00->18:50 ; T02:sex-12:30->14:20* |
-| 08 | 31/03 nov | Muda para aulas de 2h a partir desta data: T01:qui-17:00->18:50 ; T02:sex-12:30->14:20 |
+| 08 | 31/03 nov |  |
 | 09 | 07/10 nov |  |
 | 10 | 14/17 nov |  |
 | 11 | 21/24 nov |  |
@@ -44,8 +44,9 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | -- | 19/22 dez | *Férias de Natal* |
 | -- | 26/29 dez | *Férias de Natal* |
 | 15 | 02/05 jan | *Não há aulas de Projeto* |
-| 16 | 09/12 jan | Aulas de 4h - **Apresentações** T01:ter-14:00->18:00; T02:qui-18:30->22:30|
-| 17 | 16/19 jan | Aulas de 4h - **Apresentações** T01:ter-14:00->18:00; T02:qui-18:30->22:30|
+|  |  | *Muda para aulas de 4h a partir desta data: T01:ter-14:00->18:00; T02:qui-18:30->22:30|
+| 16 | 09/12 jan | **Apresentações** |
+| 17 | 16/19 jan | **Apresentações** |
 
 
 ## Tools
