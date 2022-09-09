@@ -12,7 +12,7 @@
 - **Programação Mobile** (João Dias, [joao.alfredo.dias@universidadeeuropeia.pt](mailto:joao.dias@universidadeeuropeia.pt));
 - **Programação Orientada por Objetos (Miguel Bugalho,** [miguel.bugalho@universidadeeuropeia.pt](mailto:miguel.bugalho@universidadeeuropeia.pt));
 - **Bases de Dados (Miguel Boavida,** [miguel.boavida@universidadeeuropeia.pt](mailto:miguel.boavida@universidadeeuropeia.pt));
-- **Competências Comunicacionais** (Joana Motta, [joana.motta@universidadeeuropeia.pt](mailto:joana.motta@universidadeeuropeia.pt));
+- **Competências Comunicacionais (Joana Motta,** [joana.motta@universidadeeuropeia.pt](mailto:joana.motta@universidadeeuropeia.pt));
 - **Matemática Discreta (Rodolfo Bendoyro,** [rodolfo.bendoyro@universidadeeuropeia.pt](mailto:rodolfo.bendoyro@universidadeeuropeia.pt))
 
 ## Briefing do Projecto
