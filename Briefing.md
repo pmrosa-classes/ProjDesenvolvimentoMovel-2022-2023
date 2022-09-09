@@ -100,7 +100,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
 
 **Group membership / Constituição dos Grupos:** 1ª Aula, no limite1ª Semana
 
-<mark>**1st Delivery/ 1ª Entrega (1-3 semanas):**</mark>
+<span style="background-color: #FFFF00">**1st Delivery/ 1ª Entrega (1-3 semanas):**</span>
 
 - Submission/Data de Submissão: final da terceira semana ( 01.10.2021 às 23h59 )
 - Deliverables/Entregas:
