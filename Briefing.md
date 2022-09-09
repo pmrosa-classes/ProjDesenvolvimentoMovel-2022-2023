@@ -50,9 +50,9 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
 - Na documentação deve ser incluído o diagrama de classes, o modelo ER da Base de Dados e a documentação REST. A documentação REST segue o formato indicado no seguinte site: https://bocoup.com/blog/documenting-your-api
 - A base de dados é obrigatoriamente relacional e desenvolvida em PosgreSQL:
   - Devem ser desenvolvidos vários ficheiros SQL a entregar nas milestones 2 e 3:
-    - Um ficheiro "create.sql" com todas as instruções necessárias à criação da BD e de todos os objetos (tabelas, views, stored procedures, etc) necessários ao seu funcionamento.
-    - Um ficheiro"populate.sql"com as instruções de inserção de dados que que permitam criar uma base de dados de teste coerente e com dados que simulem situações reais de utilização.
-    - um ficheiro "queries.sql" com as pesquisas mais relevantes, que ilustrem o tipo de informação que é possível extrair da BD
+    - Um ficheiro `create.sql` com todas as instruções necessárias à criação da BD e de todos os objetos (tabelas, views, stored procedures, etc) necessários ao seu funcionamento.
+    - Um ficheiro `populate.sql` com as instruções de inserção de dados que que permitam criar uma base de dados de teste coerente e com dados que simulem situações reais de utilização.
+    - um ficheiro `queries.sql` com as pesquisas mais relevantes, que ilustrem o tipo de informação que é possível extrair da BD
       - A avaliação terá em conta a complexidade e diversidade das queries apresentadas
       - As queries não devem ser submetidas de uma forma que permita o seu teste individualizado sobre a BD criada, ou seja, apenas o código SQL.
   - A base de dados poderá ser utilizada numa instalação local durante o desenvolvimento mas o objectivo final deverá ser que esta possa integrar um serviço disponível publicamente através da infraestrutura Heroku (heroku.com)
@@ -70,29 +70,24 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
   - conclusão, incluindo objetivos atingidos e por atingir, dificuldades, etc.
   - anexos, incluindo: cópia dos slides da apresentação, ...
 
-**05\_ CURRICULAR UNIT CONTRIBUTIONS / CONTRIBUIÇÕES DAS UCs**
+**05 CURRICULAR UNIT CONTRIBUTIONS / CONTRIBUIÇÕES DAS UCs**
 
 | **ECTS** | **HRS**** /WEEKS **|** CURRICULAR UNIT CONTRIBUTIONS **|** PROFESSOR **|** % OF FINAL PROJECT** |
 | --- | --- | --- | --- | --- |
-| 6 | 3h(14w) | **Programação Móvel** Desenvolvimento de uma aplicação móvel utilizando Android Studio Arctic Fox | 2020.3.1 Patch 2.
- | João Dias |
- |
+| 6 | 3h(14w) | **Programação Móvel** Desenvolvimento de uma aplicação móvel utilizando Android Studio Arctic Fox | 2020.3.1 Patch 2. | João Dias | |
 | 6 | 4h(14w) | **Programação Orientada a Objetos** Desenvolvimento de um servidor em Spring Boot usando arquitetura REST , integração da aplicação com a base de dados, gestão de versões usando GIt, criação da documentação. | Miguel Bugalho | 60% Av. Continua50% Av. Final |
-| 6 | 4h(14w) | **Bases de Dados** Desenvolvimento de uma base de dados de suporte à gestão de dados do projeto. Desenvolvimento do modelo de dados com recurso a diagramas E-R. Implementação da base de dados em PostgreSQL. | Miguel Boavida |
- |
+| 6 | 4h(14w) | **Bases de Dados** Desenvolvimento de uma base de dados de suporte à gestão de dados do projeto. Desenvolvimento do modelo de dados com recurso a diagramas E-R. Implementação da base de dados em PostgreSQL. | Miguel Boavida | |
 | 6 | 4h(14w) | **Competências Comunicacionais** Acompanhamento da evolução da capacidade de comunicação dos projetos para um público leigo, através de apresentações orais e preparação de suportes visuais.
- | Alexandra Santos |
-
-40% Avaliação (apresentação final + relatório) |
+ | ???? ???? | 40% Avaliação (apresentação final + relatório) |
 | 5 | 3h(14w) | **Matemática Discreta** Desenvolvimento da componente de processamento e análise dos dados recolhidos pela aplicação.
  | Rodolfo Bendoyro |
  |
 
-**06\_ PROJECT METHODOLOGY/METODOLOGIA**
+**06 PROJECT METHODOLOGY/METODOLOGIA**
 
 O projeto será desenvolvido ao longo do semestre com a colaboração das diferentes unidades curriculares envolvidas. Cada unidade curricular faz o acompanhamento dos trabalhos para cada milestone até à entrega e validação dos respetivos Deliverables.
 
-**07\_ DELIVERABLES & GRADES / ENTREGAS & AVALIAÇÃO**
+**07 DELIVERABLES & GRADES / ENTREGAS & AVALIAÇÃO**
 
 Para cumprir com o método de avaliação contínua, os alunos têm que efetuar 3 entregas. Há um mínimo de 70% de assiduidade (50% para casos especiais previstos no regulamento) para que os alunos sejam elegíveis para avaliação contínua.
 
