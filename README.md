@@ -11,8 +11,9 @@
 - **Programação Orientada por Objetos (Miguel Bugalho,** [miguel.bugalho@universidadeeuropeia.pt](mailto:miguel.bugalho@universidadeeuropeia.pt));
 - **Bases de Dados (Miguel Boavida,** [miguel.boavida@universidadeeuropeia.pt](mailto:miguel.boavida@universidadeeuropeia.pt));
 - **Matemática Discreta (Rodolfo Bendoyro,** [rodolfo.bendoyro@universidadeeuropeia.pt](mailto:rodolfo.bendoyro@universidadeeuropeia.pt))
-*A Confirmar a continuidade:*
-- **Competências Comunicacionais (Alexandra Santos,** [alexandra.santos@universidadeeuropeia.pt](mailto:alexandra.santos@universidadeeuropeia.pt));
+
+
+- **Competências Comunicacionais (???);
 
 ## Briefing do Projecto
 
