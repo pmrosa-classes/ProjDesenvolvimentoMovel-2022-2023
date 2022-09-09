@@ -1,18 +1,18 @@
 # Briefing
 
-**01\_ PROJECT DESCRIPTION/DESCRIÇÃO DO PROJECTO**
+**01 PROJECT DESCRIPTION/DESCRIÇÃO DO PROJECTO**
 
 No contexto da L-EI pretende-se que os alunos desenvolvam um projeto multidisciplinar, integrando os conhecimentos e aprendizagens adquiridos em várias unidades curriculares do 3º semestre do curso.
 
 O projeto consiste no desenvolvimento de uma **Aplicação Mobile** com respectivo suporte aplicacional através de **Webservices** desenvolvidos utilizando a arquitetura **REST** e **base de dados** de suporte modelada segundo o modelo relacional.
 
-A escolha do projeto deve ter em conta as características particulares das aplicações mobile. As aplicações têm como requisito técnico fundamental a utilização da localização do dispositivo (salvo autorização em contrário dos Docentes), trabalhando em conjunto com mapas e dados salvaguardados na base de dados com eventual utilização de profile matching. Pode ainda utilizar tecnologias distintas do GPS para obter a localização (vizinhos bluetooth, QRCodes ou outros métodos aprovados pelos Docentes).
+*A escolha do projeto deve ter em conta as características particulares das aplicações mobile. As aplicações têm como requisito técnico fundamental a utilização da localização do dispositivo (salvo autorização em contrário dos Docentes), trabalhando em conjunto com mapas e dados salvaguardados na base de dados com eventual utilização de profile matching. Pode ainda utilizar tecnologias distintas do GPS para obter a localização (vizinhos bluetooth, QRCodes ou outros métodos aprovados pelos Docentes).*
 
 A utilização de localização do dispositivo deverá seguir o Regulamento Geral de Proteção de Dados (RGPD), temática que será abordada nas aulas da unidade curricular.
 
-**02\_ CONTEÚDOS PROGRAMÁTICOS/SYLLABUS CONTENTS**
+**02 CONTEÚDOS PROGRAMÁTICOS/SYLLABUS CONTENTS**
 
-Este projeto baseia-se na análise, desenho e implementação de um Projeto de Engenharia Informática. Os alunos são assim guiados através de todo o processo de desenvolvimento, recorrendo a uma metodologia ágil, que inclui também um trabalho de comunicação que culmina com uma apresentação dos resultados.
+Este projeto baseia-se na análise, desenho e implementação de um Projeto de Engenharia Informática. Os alunos são assim guiados através de todo o processo de desenvolvimento, recorrendo a uma metodologia ágil, que inclui também um trabalho de comunicação que culmina com uma apresentação dos resultados. Irão utilizar algumas ferramentas para auxiliar a Gestão do Projeto.
 
 As diversas fases incluem obrigatoriamente:
 
@@ -23,7 +23,7 @@ As diversas fases incluem obrigatoriamente:
 - Teste;
 - Apresentação.
 
-**03\_ OBJECTIVOS/LEARNING OUTCOMES**
+**03 OBJECTIVOS/LEARNING OUTCOMES**
 
 No final da unidade curricular, o aluno deverá ser capaz de:
 
@@ -34,7 +34,7 @@ No final da unidade curricular, o aluno deverá ser capaz de:
 - Utilizar uma metodologia de desenvolvimento ágil, com várias apresentações de funcionalidades e possibilidade de acomodar alterações durante a execução do projeto;
 - Saber comunicar de forma clara e efetiva com o público-alvo, quer oralmente quer por escrito, explicitando as características e vantagens do produto desenvolvido.
 
-**04\_ PROJECT REQUIREMENTS/REQUISITOS**
+**04 PROJECT REQUIREMENTS/REQUISITOS**
 
 O projeto deve ter em conta os seguintes requisitos obrigatórios:
 
