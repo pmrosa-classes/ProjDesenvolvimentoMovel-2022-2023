@@ -72,7 +72,7 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
 
 ## 05. CURRICULAR UNIT CONTRIBUTIONS / CONTRIBUIÇÕES DAS UCs
 
-| **ECTS** | **HRS**** /WEEKS **|** CURRICULAR UNIT CONTRIBUTIONS **|** PROFESSOR **|** % OF FINAL PROJECT** |
+| ECTS | HORAS/SEMANAS | CONTRIBUIÇÕES DAS UNIDADES CURRICULARES | PROFESSOR | % DA CLASSIFICAÇÂO DA UC |
 | --- | --- | --- | --- | --- |
 | 6 | 3h(14w) | **Programação Móvel** Desenvolvimento de uma aplicação móvel utilizando Android Studio Arctic Fox 2020.3.1 Patch 2. | João Dias | |
 | 6 | 4h(14w) | **Programação Orientada a Objetos** Desenvolvimento de um servidor em Spring Boot usando arquitetura REST , integração da aplicação com a base de dados, gestão de versões usando GIt, criação da documentação. | Miguel Bugalho | 60% Av. Continua50% Av. Final |
