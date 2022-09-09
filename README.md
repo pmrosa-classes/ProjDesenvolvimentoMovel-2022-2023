@@ -25,6 +25,10 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 
 ## Templates
 
+## Presenças
+
+## Avaliação Continua
+
 ## Log
 
 
