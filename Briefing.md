@@ -169,7 +169,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
 
 Cada dia de atraso na entrega dos elementos de avaliação implica a perda de 1 valor na avaliação de cada unidade curricular, relativamente à respetiva entrega (i.e. 1 dia de atraso equivale a menos 1 valor por UC).
 
-## Avaliação Final / Exame** :
+## Avaliação Final / Exame:
 
 - Entrega e apresentação únicas: 100%
 - Projeto disponível online
