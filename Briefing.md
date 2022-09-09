@@ -96,9 +96,9 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
 
 ** Obrigatoriamente na 1ª Aula
 
-### 1st Delivery/ 1ª Entrega (1-3 semanas):
+### 1st Delivery/ 1ª Entrega (4ª semana):
 
-- Submission/Data de Submissão: final da terceira semana ( 01.10.2021 às 23h59 )
+- Submission/Data de Submissão: final da terceira semana (**SEXTA-FEIRA 07.10.2021 às 23h59**)
 - Deliverables/Entregas:
   - Primeira versão do relatório, disponibilizada numa plataforma git (em markup language) que deve incluir:
     - Uma proposta inicial de projeto
@@ -118,9 +118,9 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Project Charter and WBS
   - Pitch
 
-### 2nd Delivery/ 2ª Entrega (4-9 semanas):
+### 2nd Delivery/ 2ª Entrega (11ª semana):
 
-- Submission/Data de Submissão: final da nona semana ( 12.11.2021 às 23h59 )
+- Submission/Data de Submissão: final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)
 - Deliverables/Entregas:
   - Protótipo / Versão alfa do projeto com um servidor funcional, BD online e app com navegação e consumo de serviços
   - Versão atualizada do relatório de projeto na plataforma git, incluindo também:
@@ -138,9 +138,9 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Plano de trabalhos atualizado
   - Apresentação
 
-### 3th Delivery/ 3ª Entrega (10-14 semanas):
+### 3th Delivery/ 3ª Entrega (15ª semanas):
 
-- Submission/Data de Submissão: Submissão na plataforma Canvas na data/hora da prova de avaliação contínua, marcada pela secretaria (última semana de aulas).
+- Submission/Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**).
 - Presentation Date/Data da Apresentação: a agendar (uma semana a seguir à data de submissão)
 - Deliverables/Entregas:
   - Versão final do projeto com GUI e BD online
