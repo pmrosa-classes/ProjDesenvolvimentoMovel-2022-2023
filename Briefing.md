@@ -6,7 +6,7 @@ No contexto da L-EI pretende-se que os alunos desenvolvam um projeto multidiscip
 
 O projeto consiste no desenvolvimento de uma **Aplicação Mobile** com respectivo suporte aplicacional através de **Webservices** desenvolvidos utilizando a arquitetura **REST** e **base de dados** de suporte modelada segundo o modelo relacional.
 
-*A escolha do projeto deve ter em conta as características particulares das aplicações mobile. As aplicações têm como requisito técnico fundamental a utilização da localização do dispositivo (salvo autorização em contrário dos Docentes), trabalhando em conjunto com mapas e dados salvaguardados na base de dados com eventual utilização de profile matching. Pode ainda utilizar tecnologias distintas do GPS para obter a localização (vizinhos bluetooth, QRCodes ou outros métodos aprovados pelos Docentes).*
+A escolha do projeto deve ter em conta as características particulares das aplicações mobile. As aplicações têm como requisito técnico fundamental a utilização da localização do dispositivo (salvo autorização em contrário dos Docentes), trabalhando em conjunto com mapas e dados salvaguardados na base de dados com eventual utilização de profile matching. Pode ainda utilizar tecnologias distintas do GPS para obter a localização (vizinhos bluetooth, QRCodes ou outros métodos aprovados pelos Docentes).
 
 A utilização de localização do dispositivo deverá seguir o Regulamento Geral de Proteção de Dados (RGPD), temática que será abordada nas aulas da unidade curricular.
 
