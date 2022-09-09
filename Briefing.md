@@ -74,14 +74,11 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
 
 | **ECTS** | **HRS**** /WEEKS **|** CURRICULAR UNIT CONTRIBUTIONS **|** PROFESSOR **|** % OF FINAL PROJECT** |
 | --- | --- | --- | --- | --- |
-| 6 | 3h(14w) | **Programação Móvel** Desenvolvimento de uma aplicação móvel utilizando Android Studio Arctic Fox | 2020.3.1 Patch 2. | João Dias | |
+| 6 | 3h(14w) | **Programação Móvel** Desenvolvimento de uma aplicação móvel utilizando Android Studio Arctic Fox 2020.3.1 Patch 2. | João Dias | |
 | 6 | 4h(14w) | **Programação Orientada a Objetos** Desenvolvimento de um servidor em Spring Boot usando arquitetura REST , integração da aplicação com a base de dados, gestão de versões usando GIt, criação da documentação. | Miguel Bugalho | 60% Av. Continua50% Av. Final |
 | 6 | 4h(14w) | **Bases de Dados** Desenvolvimento de uma base de dados de suporte à gestão de dados do projeto. Desenvolvimento do modelo de dados com recurso a diagramas E-R. Implementação da base de dados em PostgreSQL. | Miguel Boavida | |
-| 6 | 4h(14w) | **Competências Comunicacionais** Acompanhamento da evolução da capacidade de comunicação dos projetos para um público leigo, através de apresentações orais e preparação de suportes visuais.
- | ???? ???? | 40% Avaliação (apresentação final + relatório) |
-| 5 | 3h(14w) | **Matemática Discreta** Desenvolvimento da componente de processamento e análise dos dados recolhidos pela aplicação.
- | Rodolfo Bendoyro |
- |
+| 6 | 4h(14w) | **Competências Comunicacionais** Acompanhamento da evolução da capacidade de comunicação dos projetos para um público leigo, através de apresentações orais e preparação de suportes visuais. | ???? ???? | 40% Avaliação (apresentação final + relatório) |
+| 5 | 3h(14w) | **Matemática Discreta** Desenvolvimento da componente de processamento e análise dos dados recolhidos pela aplicação. | Rodolfo Bendoyro ||
 
 ## 06. PROJECT METHODOLOGY/METODOLOGIA
 
