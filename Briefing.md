@@ -1,6 +1,6 @@
 # Briefing
 
-**01 PROJECT DESCRIPTION/DESCRIÇÃO DO PROJECTO**
+## 01. PROJECT DESCRIPTION/DESCRIÇÃO DO PROJECTO
 
 No contexto da L-EI pretende-se que os alunos desenvolvam um projeto multidisciplinar, integrando os conhecimentos e aprendizagens adquiridos em várias unidades curriculares do 3º semestre do curso.
 
@@ -10,7 +10,7 @@ O projeto consiste no desenvolvimento de uma **Aplicação Mobile** com respecti
 
 A utilização de localização do dispositivo deverá seguir o Regulamento Geral de Proteção de Dados (RGPD), temática que será abordada nas aulas da unidade curricular.
 
-**02 CONTEÚDOS PROGRAMÁTICOS/SYLLABUS CONTENTS**
+## 02. CONTEÚDOS PROGRAMÁTICOS/SYLLABUS CONTENTS
 
 Este projeto baseia-se na análise, desenho e implementação de um Projeto de Engenharia Informática. Os alunos são assim guiados através de todo o processo de desenvolvimento, recorrendo a uma metodologia ágil, que inclui também um trabalho de comunicação que culmina com uma apresentação dos resultados. Irão utilizar algumas ferramentas para auxiliar a Gestão do Projeto.
 
@@ -23,7 +23,7 @@ As diversas fases incluem obrigatoriamente:
 - Teste;
 - Apresentação.
 
-**03 OBJECTIVOS/LEARNING OUTCOMES**
+## 03. OBJECTIVOS/LEARNING OUTCOMES
 
 No final da unidade curricular, o aluno deverá ser capaz de:
 
@@ -34,7 +34,7 @@ No final da unidade curricular, o aluno deverá ser capaz de:
 - Utilizar uma metodologia de desenvolvimento ágil, com várias apresentações de funcionalidades e possibilidade de acomodar alterações durante a execução do projeto;
 - Saber comunicar de forma clara e efetiva com o público-alvo, quer oralmente quer por escrito, explicitando as características e vantagens do produto desenvolvido.
 
-**04 PROJECT REQUIREMENTS/REQUISITOS**
+## 04. PROJECT REQUIREMENTS/REQUISITOS
 
 O projeto deve ter em conta os seguintes requisitos obrigatórios:
 
@@ -70,7 +70,7 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
   - conclusão, incluindo objetivos atingidos e por atingir, dificuldades, etc.
   - anexos, incluindo: cópia dos slides da apresentação, ...
 
-**05 CURRICULAR UNIT CONTRIBUTIONS / CONTRIBUIÇÕES DAS UCs**
+## 05. CURRICULAR UNIT CONTRIBUTIONS / CONTRIBUIÇÕES DAS UCs
 
 | **ECTS** | **HRS**** /WEEKS **|** CURRICULAR UNIT CONTRIBUTIONS **|** PROFESSOR **|** % OF FINAL PROJECT** |
 | --- | --- | --- | --- | --- |
@@ -83,19 +83,23 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
  | Rodolfo Bendoyro |
  |
 
-**06 PROJECT METHODOLOGY/METODOLOGIA**
+## 06. PROJECT METHODOLOGY/METODOLOGIA
 
 O projeto será desenvolvido ao longo do semestre com a colaboração das diferentes unidades curriculares envolvidas. Cada unidade curricular faz o acompanhamento dos trabalhos para cada milestone até à entrega e validação dos respetivos Deliverables.
 
-**07 DELIVERABLES & GRADES / ENTREGAS & AVALIAÇÃO**
+## 07. GRADING / AVALIAÇÃO
 
 Para cumprir com o método de avaliação contínua, os alunos têm que efetuar 3 entregas. Há um mínimo de 70% de assiduidade (50% para casos especiais previstos no regulamento) para que os alunos sejam elegíveis para avaliação contínua.
 
 A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em resultados específicos, conforme descrito abaixo. De notar que há uma penalização de até 4 pontos se as instruções de entrega não forem seguidas com precisão.
 
-**Group membership / Constituição dos Grupos:** 1ª Aula, no limite1ª Semana
+## 08. DELIVERABLES AND SCHEDULE / ENTREGAS E DATAS
 
-**1st Delivery/ 1ª Entrega (1-3 semanas):**
+### Group membership / Constituição dos Grupos:
+
+** Obrigatoriamente na 1ª Aula
+
+### 1st Delivery/ 1ª Entrega (1-3 semanas):**
 
 - Submission/Data de Submissão: final da terceira semana ( 01.10.2021 às 23h59 )
 - Deliverables/Entregas:
@@ -117,7 +121,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Project Charter and WBS
   - Pitch
 
-**2nd Delivery/ 2ª Entrega (4-9 semanas):**
+### 2nd Delivery/ 2ª Entrega (4-9 semanas):**
 
 - Submission/Data de Submissão: final da nona semana ( 12.11.2021 às 23h59 )
 - Deliverables/Entregas:
@@ -137,7 +141,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Plano de trabalhos atualizado
   - Apresentação
 
-**3th Delivery/ 3ª Entrega (10-14 semanas):**
+### 3th Delivery/ 3ª Entrega (10-14 semanas):**
 
 - Submission/Data de Submissão: Submissão na plataforma Canvas na data/hora da prova de avaliação contínua, marcada pela secretaria (última semana de aulas).
 - Presentation Date/Data da Apresentação: a agendar (uma semana a seguir à data de submissão)
@@ -164,11 +168,11 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - Poster
   - Vídeo
 
-**Caso os prazos não sejam cumpridos:**
+### Caso os prazos não sejam cumpridos:**
 
 Cada dia de atraso na entrega dos elementos de avaliação implica a perda de 1 valor na avaliação de cada unidade curricular, relativamente à respetiva entrega (i.e. 1 dia de atraso equivale a menos 1 valor por UC).
 
-**Avaliação Final / Exame** :
+## Avaliação Final / Exame** :
 
 - Entrega e apresentação únicas: 100%
 - Projeto disponível online
