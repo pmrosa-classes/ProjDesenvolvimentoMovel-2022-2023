@@ -4,7 +4,7 @@
 
 **Ano/Semestre: 2022-2023 / 3º Semestre**
 
-## Projeto Multidisciplina:
+## Projeto Multidisciplinar:
 
 - **Projecto Desenvolvimento Móvel** - Coordenação (Pedro Rosa, [pedro.rosa@universidadeeuropeia.pt](mailto:pedro.rosa@universidadeeuropeia.pt)
 - **Programação Mobile** (João Dias, [joao.alfredo.dias@universidadeeuropeia.pt](mailto:joao.dias@universidadeeuropeia.pt));
