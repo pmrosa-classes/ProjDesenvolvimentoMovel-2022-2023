@@ -15,7 +15,7 @@
 - **Matemática Discreta (Rodolfo Bendoyro,** [rodolfo.bendoyro@universidadeeuropeia.pt](mailto:rodolfo.bendoyro@universidadeeuropeia.pt))
 
 
-- **Competências Comunicacionais (???);
+- **Competências Comunicacionais** (???);
 
 ## Briefing do Projecto
 
