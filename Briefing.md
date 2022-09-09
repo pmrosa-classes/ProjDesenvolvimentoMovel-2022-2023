@@ -110,7 +110,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
   - VER COM COMPETENCIAS COM. / PASSAR PARA A ULTIMA ENTREGA?: Entrega de vídeo com Pitch de 3 min com apresentação da proposta na semana seguinte no mesmo formato.
 - Avaliação (20%)
   - Progressos semanais
-  - VER!!!! Proposta de solução com pelo menos três cenários e personas
+  - Proposta inicial de solução com pelo menos três guiões e personas
   - Plano de trabalhos
   - Requisitos funcionais e não funcionais
   - Modelo do domínio
@@ -124,7 +124,7 @@ A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em r
 - Deliverables/Entregas:
   - Protótipo / Versão alfa do projeto com um servidor funcional, BD online e app com navegação e consumo de serviços
   - Versão atualizada do relatório de projeto na plataforma git, incluindo também:
-    - VER!!!! Definição final dos guiões e personas
+    - Definição final dos guiões e personas
     - Esboço do diagrama de classes no git (diagrama conceptual com foco nas entidades e relações entre elas)
     - Primeira versão da documentação REST adicionada ao relatório
     - Primeira versão do Dicionário de Dados com a descrição detalhada do Modelo Entidade-Relação,
