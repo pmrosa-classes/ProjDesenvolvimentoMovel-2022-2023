@@ -60,6 +60,8 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 Os projetos são em grupo (3 alunos) e deve ser preenchida a tarefa respetiva no Canvas até dia 16 de setembro às 23:59.
 A contituição dos grupos será posteriromente disponibilizada através deste *link* em Google Sheets (apenas identifica os alunos por número) 
 
+## Tarefas Canvas
+
 ## Presenças
 
 Os alunos podem acompanhar a percentagem de aulas a que assistem através da disponibilização pública, em Google Sheets, referente à sua turmas:
