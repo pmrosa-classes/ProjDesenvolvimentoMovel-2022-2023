@@ -58,15 +58,15 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 ## Grupos
 
 Os projetos são em grupo (3 alunos) e deve ser preenchida a tarefa respetiva no Canvas até dia 16 de setembro às 23:59.
-A contituição dos grupos será posteriromente disponibilizada através deste *[link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=592821258&single=true)* em Google Sheets (apenas identifica os alunos por número) 
+A contituição dos grupos será posteriromente disponibilizada através deste **[link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=592821258&single=true)** em Google Sheets (apenas identifica os alunos por número) 
 
 ## Tarefas Canvas
 
 ## Presenças
 
 Os alunos podem acompanhar a percentagem de aulas a que assistem através da disponibilização pública, em Google Sheets, referente à sua turmas:
-- Presenças da T01
-- Presenças da T02
+- [Presenças da T01](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=1412701734&single=true)
+- [Presenças da T02](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=933545162&single=true)
 
 ## Avaliação Continua
 
