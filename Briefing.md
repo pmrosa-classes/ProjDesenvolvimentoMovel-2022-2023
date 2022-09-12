@@ -90,6 +90,8 @@ Para cumprir com o método de avaliação contínua, os alunos têm que efetuar 
 
 A avaliação de cada aluno é efetuada de acordo com o trabalho dos alunos em resultados específicos, conforme descrito abaixo. De notar que há uma penalização de até 4 pontos se as instruções de entrega não forem seguidas com precisão.
 
+Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliação, dependendo do que é indicado por cada Docente.
+
 ## 08. DELIVERABLES AND SCHEDULE / ENTREGAS E DATAS
 
 ### Group membership / Constituição dos Grupos:
