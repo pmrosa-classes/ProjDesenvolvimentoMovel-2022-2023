@@ -68,12 +68,10 @@ Os alunos podem acompanhar a percentagem de aulas a que assistem através da dis
 - [Presenças da T01](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=1412701734&single=true)
 - [Presenças da T02](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=933545162&single=true)
 
-## Avaliação Continua
+## Avaliação e Resumo da Calendarização
 
-Os alunos podem acompanhar a avaliação das diversas componentes, ao longo do semestre, através deste link em Google Sheets (apenas identifica os alunos por número).
-
-## Resumo da Calendarização
-
+Os alunos podem acompanhar a avaliação das diversas componentes, ao longo do semestre, através deste *link* em Google Sheets (apenas identifica os alunos por número).
+Resumo:
 - 1ª Entrega: Data de Submissão: final da terceira semana (**SEXTA-FEIRA 07.10.2021 às 23h59**) - 20%
 - *1ª Entrega Intercalar*: final da sétima semana (**SEXTA-FEIRA 21.10.2021 às 23h59**) - 5%
 - *2ª Entrega Intercalar*: final da nona semana (**SEXTA-FEIRA 11.11.2021 às 23h59**) - 5%
