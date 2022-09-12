@@ -72,6 +72,12 @@ Os alunos podem acompanhar a percentagem de aulas a que assistem através da dis
 
 Os alunos podem acompanhar a avaliação das diversas componentes, ao longo do semestre, através deste link em Google Sheets (apenas identifica os alunos por número).
 
+## Resumo da Calendarização
+
+- 1ª Entrega: Data de Submissão: final da terceira semana (**SEXTA-FEIRA 07.10.2021 às 23h59**)
+- 2ª Entrega: Data de Submissão: final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)
+- 3ª Entrega: Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**).
+
 ## Log
 
 
