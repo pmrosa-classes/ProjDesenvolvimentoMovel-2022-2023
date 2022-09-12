@@ -74,9 +74,12 @@ Os alunos podem acompanhar a avaliação das diversas componentes, ao longo do s
 
 ## Resumo da Calendarização
 
-- 1ª Entrega: Data de Submissão: final da terceira semana (**SEXTA-FEIRA 07.10.2021 às 23h59**)
-- 2ª Entrega: Data de Submissão: final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)
-- 3ª Entrega: Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**).
+- 1ª Entrega: Data de Submissão: final da terceira semana (**SEXTA-FEIRA 07.10.2021 às 23h59**) - 20%
+- *1ª Entrega Intercalar*: final da sétima semana (**SEXTA-FEIRA 21.10.2021 às 23h59**) - 5%
+- *2ª Entrega Intercalar*: final da nona semana (**SEXTA-FEIRA 11.11.2021 às 23h59**) - 5%
+- 2ª Entrega: Data de Submissão: final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**) - 30% (20% desta entregua e 10% nas duas intercalares anterioes)
+- *3ª Entrega Intercalar*: final da nona semana (**SEXTA-FEIRA 09.12.2021 às 23h59**) - 10%
+- 3ª Entrega: Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**) - 50% (40% desta entrega e 10% da intercalar anterior)
 
 ## Log
 
