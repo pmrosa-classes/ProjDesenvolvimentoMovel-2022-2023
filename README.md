@@ -24,7 +24,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 |  |  | *Aulas de 1h por turma: T01:seg-18:00->18:50 ; T02:qui-17:00->17:50* |
-| 01 | 12/15 set | **Elaboração dos Grupos** |
+| 01 | 12/15 set | **Elaboração dos Grupos** nesta [Tarefa](https://mycampus.pt/courses/13374/assignments/15524) |
 | 02 | 19/22 set | **Discussão dos temas dos trabalhos** |
 | 03 | 26/29 set | **Discussão dos temas dos trabalhos** |
 | 04 | 03/06 out | **Primeira Entrega** *até às 23:59* |
@@ -57,7 +57,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 
 ## Grupos
 
-Os projetos são em grupo (3 alunos) e deve ser preenchida a tarefa respetiva no Canvas até dia 16 de setembro às 23:59.
+Os projetos são em grupo (3 alunos) e deve ser preenchida a [Tarefa](https://mycampus.pt/courses/13374/assignments/15524) respetiva no Canvas até dia 16 de setembro às 23:59.
 A contituição dos grupos será posteriromente disponibilizada através deste **[link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=592821258&single=true)** em Google Sheets (apenas identifica os alunos por número) 
 
 ## Tarefas Canvas
