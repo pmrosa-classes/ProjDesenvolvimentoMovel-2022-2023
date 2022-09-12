@@ -100,7 +100,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 
 ### 1st Delivery/ 1ª Entrega (4ª semana):
 
-- Submission/Data de Submissão: final da terceira semana (**SEXTA-FEIRA 07.10.2021 às 23h59**)
+- Submission/Data de Submissão: final da quarta semana (**SEXTA-FEIRA 07.10.2021 às 23h59**)
 - Deliverables/Entregas:
   - Primeira versão do relatório, disponibilizada numa plataforma git (em markup language) que deve incluir:
     - Uma proposta inicial de projeto
@@ -122,7 +122,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 
 ### 2nd Delivery/ 2ª Entrega (11ª semana):
 
-- Submission/Data de Submissão: final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)
+- Submission/Data de Submissão: final da décima semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)
 - Deliverables/Entregas:
   - Protótipo / Versão alfa do projeto com um servidor funcional, BD online e app com navegação e consumo de serviços
   - Versão atualizada do relatório de projeto na plataforma git, incluindo também:
@@ -142,7 +142,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 
 ### 3th Delivery/ 3ª Entrega (15ª semanas):
 
-- Submission/Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**).
+- Submission/Data de Submissão: décima quarta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**).
 - Presentation Date/Data da Apresentação: a agendar (uma semana a seguir à data de submissão)
 - Deliverables/Entregas:
   - Versão final do projeto com GUI e BD online
