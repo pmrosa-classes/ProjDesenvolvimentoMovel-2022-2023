@@ -2,7 +2,7 @@
 
 **Licenciatura**
 
-**Ano/Semestre: 2022-2023 / 3º Semestre** *
+**Ano/Semestre: 2022-2023 / 3º Semestre**
 
 **Nota:** Conteudos pedagógicos e documentos com identificação completa dos alunos só serão colocados na plataforma oficial de LMS da Universidade (MyCanvas).
 
