@@ -55,7 +55,6 @@ O projeto deve ter em conta os seguintes requisitos obrigatórios:
     - um ficheiro `queries.sql` com as pesquisas mais relevantes, que ilustrem o tipo de informação que é possível extrair da BD
       - A avaliação terá em conta a complexidade e diversidade das queries apresentadas
       - As queries não devem ser submetidas de uma forma que permita o seu teste individualizado sobre a BD criada, ou seja, apenas o código SQL.
-  - A base de dados poderá ser utilizada numa instalação local durante o desenvolvimento mas o objectivo final deverá ser que esta possa integrar um serviço disponível publicamente através da infraestrutura Heroku (heroku.com)
 - Dados e conteúdos:
   - Os dados e conteúdos usados no desenvolvimento do projeto devem ser representativos, não devem ser uma caricatura e, quando se tratar de dados sensíveis (e.g. nomes, números de telefone, etc.), não devem ser reais.
 - É obrigatória a produção de relatórios quinzenais (_sprint report_) sobre a evolução do projeto (tarefas realizadas e planeamento da semana/_sprint_ seguinte)
@@ -124,7 +123,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 
 - Submission/Data de Submissão: final da décima semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)
 - Deliverables/Entregas:
-  - Protótipo / Versão alfa do projeto com um servidor funcional, BD online e app com navegação e consumo de serviços
+  - Protótipo / Versão alfa do projeto com um servidor funcional, BD e app com navegação e consumo de serviços
   - Versão atualizada do relatório de projeto na plataforma git, incluindo também:
     - Definição final dos guiões e personas
     - Esboço do diagrama de classes no git (diagrama conceptual com foco nas entidades e relações entre elas)
@@ -145,7 +144,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 - Submission/Data de Submissão: décima quarta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**).
 - Presentation Date/Data da Apresentação: a agendar (uma semana a seguir à data de submissão)
 - Deliverables/Entregas:
-  - Versão final do projeto com GUI e BD online
+  - Versão final do projeto com GUI e BD
   - Versão atualizada do relatório de projeto (documento único para todas as unidades curriculares) na plataforma git:
     - Versão atualizada dos casos de utilização
     - Versão atualizada do diagrama de classes
@@ -160,7 +159,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
   - Apresentação oral (duração máxima 10 minutos, incluindo o visionamento do vídeo), com recurso ao suporte visual previamente entregue
 - Avaliação (50%):
   - Progressos semanais
-  - Versão final do projeto disponível online
+  - Versão final do projeto disponível
   - Código fonte disponível online numa plataforma git
   - Relatório final de projeto
   - Apresentação
@@ -174,7 +173,7 @@ Cada dia de atraso na entrega dos elementos de avaliação implica a perda de 1 
 ## Avaliação Final / Exame:
 
 - Entrega e apresentação únicas: 100%
-- Projeto disponível online
+- Projeto disponível
 - Código fonte disponível online numa plataforma git
 - Relatório final de projeto
 - Apresentação e discussão
