@@ -49,7 +49,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 
 ## Tools
 - **Clickup** para Gestão de Projeto - fazer download no site do [ClickUp](https://www.clickup.com/)
-- **Discord** para comunicação com os Professores - [convite](https://discord.gg/hCa4njxc)
+- **Discord** para comunicação com os Professores - [convite](https://discord.gg/cwuNKwwt)
 
 ## Templates
 - Download do template do ClickUp
