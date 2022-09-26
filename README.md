@@ -28,8 +28,8 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | 02 | 19/22 set | **Discussão dos temas dos trabalhos** |
 | 03 | 26/29 set | **Discussão dos temas dos trabalhos** |
 | 04 | 03/06 out | **Primeira Entrega** *até às 23:59* |
-| 05 | 10/13 out | Github & ClickUp |
-| 06 | 17/20 out | *1ª Entrega Intercalar* |
+| 05 | 10/13 out | Apresentação da Proposta |
+| 06 | 17/20 out | Github & ClickUp; *1ª Entrega Intercalar* |
 | -- | 24/27 out | *Não há aulas de Projeto* |
 |  |  | *Muda para aulas de 2h a partir desta data: T01:qui-17:00->18:50 ; T02:sex-12:30->14:20* |
 | 07 | 31/03 nov |  RGPD |
