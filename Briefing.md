@@ -100,6 +100,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 ### 1st Delivery/ 1ª Entrega (4ª semana):
 
 - Submission/Data de Submissão: final da quarta semana (**SEXTA-FEIRA 07.10.2021 às 23h59**)
+- Utilizar obrigatoriamente este [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md)
 - Deliverables/Entregas:
   - Primeira versão do relatório, disponibilizada numa plataforma git (em markup language) que deve incluir:
     - Uma proposta inicial de projeto
