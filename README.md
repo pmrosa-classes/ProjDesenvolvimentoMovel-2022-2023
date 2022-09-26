@@ -53,6 +53,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 
 ## Templates
 - Download do template do ClickUp
+- [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md)
 - Template do Relatório Final
 
 ## Grupos
@@ -61,6 +62,7 @@ Os projetos são em grupo (3 alunos) e deve ser preenchida a [Tarefa](https://my
 A contituição dos grupos será posteriromente disponibilizada através deste **[link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6_NXhcPLzlngPi6KNQzDmSAJdltBnX-1-LycT61ErdBucJSG2oFeFYfbg1oXktf8aR0abR9wxs-Gr/pubhtml?gid=592821258&single=true)** em Google Sheets (apenas identifica os alunos por número) 
 
 ## Tarefas Canvas
+- [Entrega da Proposta de Projeto no Canvas](https://mycampus.pt/courses/13374/assignments/16341) **até SEXTA-FEIRA 07.10.2021 às 23h59**
 
 ## Presenças
 
@@ -80,5 +82,8 @@ Resumo:
 - 3ª Entrega: Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**) - 50% (40% desta entrega e 10% da intercalar anterior)
 
 ## Log
+
+2022.09.26 - [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md)
+2022.09.26 - Colocada a tarefa para a [Entrega da Proposta de Projeto no Canvas](https://mycampus.pt/courses/13374/assignments/16341). Data limite SEXTA-FEIRA 07.10.2021 às 23h59.
 
 
