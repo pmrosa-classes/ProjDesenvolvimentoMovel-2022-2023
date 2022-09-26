@@ -1,4 +1,4 @@
-# Documentação do Trabalho Prático
+# Documentação do Projeto
 
 ## 1. Proposta de Projeto - formato de documento obrigatório
 
