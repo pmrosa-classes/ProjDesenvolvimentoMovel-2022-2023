@@ -51,7 +51,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 - **Discord** para comunicação com os Professores - [convite](https://discord.gg/cwuNKwwt)
 
 ## Templates
-- Download do template do ClickUp
+- Download do [Template do ClickUp](https://app.clickup.com/template/project/t-66165690/d0d0bd28986cba9) 
 - [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md)
 - Template do Relatório Final
 
