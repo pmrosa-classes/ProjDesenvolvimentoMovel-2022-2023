@@ -51,7 +51,7 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 - **Discord** para comunicação com os Professores - [convite](https://discord.gg/cwuNKwwt)
 
 ## Templates
-- Download do [Template do ClickUp](https://app.clickup.com/template/project/t-66165690/d0d0bd28986cba9) 
+- Download do [Template do ClickUp](https://app.clickup.com/template/project/t-66165690/d0d0bd28986cba9) - Depois de instalar o Clickup (https://www.clickup.com/) e criar o primeiro *Workspace*, deve clicar no link do *template* e importar para um *Space* novo. Os folders com a 1ª, 2ª e 3ª delivery não podem ser alteradas, apenas completadas as *tasks*. O *folder* com as *Weekly Deliverables* estão vazias e devem ser completadas pelos alunos com as *tasks* dependentes dos projetos. Devem completar com todas as tarefas técnicas e não técnicas.
 - [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md)
 - Template do Relatório Final
 
