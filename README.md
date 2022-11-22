@@ -34,8 +34,8 @@ A descrição, objetivos e entregaveis/avaliação da unidade curricular encontr
 | 07 | 31/03 nov | Github & ClickUp  *Muda para aulas de 2h a partir desta data: T01:qui-17:00->18:50 ; T02:sex-12:30->14:20* |
 | 08 | 07/10 nov |  *1ª Entrega Intercalar* avaliação odurante a aula; RGPD|
 | 09 | 14/17 nov |  *2ª Entrega Intercalar* avaliação odurante a aula|
-| 10 | 21/24 nov | **Segunda Entrega** *até às 23:59*  |
-| 11 | 28/01 dez | **Apresentação da 2a Entrega** |
+| 10 | 21/24 nov | ~~**Segunda Entrega** *até às 23:59*~~  |
+| 11 | 28/01 dez | **Segunda Entrega** *até às 23:59* |
 | 12 | 05/08 dez | **Apresentação da 2a Entrega** |
 | 13 | 12/15 dez | *3ª Entrega Intercalar* avaliação odurante a aula|
 | -- | 19/22 dez | *Férias de Natal* |
@@ -78,7 +78,7 @@ Resumo:
 - 1ª Entrega: Data de Submissão: final da terceira semana (**SEXTA-FEIRA 07.10.2021 às 23h59**) - 20%
 - *1ª Entrega Intercalar*: na aula da semana de **5 a 11.11.2021** - 5%
 - *2ª Entrega Intercalar*: na aula da semana de **13 a 18.11.2021** - 5%
-- 2ª Entrega: Data de Submissão: final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**) - 30% (20% desta entregua e 10% nas duas intercalares anterioes)
+- 2ª Entrega: Data de Submissão: ~~final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)~~(**SEXTA-FEIRA 2.12.2022 às 23h59**) - 30% (20% desta entregua e 10% nas duas intercalares anterioes)
 - *3ª Entrega Intercalar*: na aula da semana de **11 a 16.12.2021** - 10%
 - 3ª Entrega: Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**) - 50% (40% desta entrega e 10% da intercalar anterior)
 
