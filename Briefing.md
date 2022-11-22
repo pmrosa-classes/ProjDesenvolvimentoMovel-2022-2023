@@ -122,7 +122,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 
 ### 2nd Delivery/ 2ª Entrega (11ª semana):
 
-- Submission/Data de Submissão: final da décima semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)
+- Submission/Data de Submissão: ~~final da décima semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)~~(**SEXTA-FEIRA 2.12.2022 às 23h59**)
 - Deliverables/Entregas:
   - Protótipo / Versão alfa do projeto com um servidor funcional, BD e app com navegação e consumo de serviços
   - Versão atualizada do relatório de projeto na plataforma git, incluindo também:
