@@ -82,6 +82,13 @@ Resumo:
 - *3ª Entrega Intercalar*: na aula da semana de **11 a 16.12.2021** - 10%
 - 3ª Entrega: Data de Submissão: décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**) - 50% (40% desta entrega e 10% da intercalar anterior)
 
+### Avaliação Final
+A avaliação por exame compreende a entrega de um projeto completo, com os entregaveis descritos na 3ª Entrega do Briefing da Unidade Curricular. O Relatório entregue deve conter toda a documentação (incluindo diagramas) solicitados nas anteriores Entregas (1ª e 2ª).
+
+No dia do exame os alunos farão a apresentação do projeto, da mesma forma que os alunos em avaliação continua (inclui uma apresentação em powerpoint, ou semelhante, um poster e a mostra do video de demonstração da app) e entregam todos os materiais.
+
+Para mais informações consultar o Briefing do Projeto em https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Briefing.md
+
 ## Log
 
 2022.09.26 - [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md)
