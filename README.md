@@ -79,7 +79,7 @@ Resumo:
 - *1ª Entrega Intercalar*: na aula da semana de **5 a 11.11.2021** - 5%
 - *2ª Entrega Intercalar*: na aula da semana de **13 a 18.11.2021** - 5%
 - 2ª Entrega: Data de Submissão: ~~final da décima primeira semana (**SEXTA-FEIRA 25.11.2022 às 23h59**)~~(**SEXTA-FEIRA 2.12.2022 às 23h59**) - 30% (20% desta entregua e 10% nas duas intercalares anterioes)
-- *3ª Entrega Intercalar*: na aula da semana de **11 a 16.12.2021** - 10%
+- *3ª Entrega Intercalar*: ~~na aula da semana de **11 a 16.12.2021** - 10%~~ anulada devido aos adiamentos das outras entregas, os 10% continuam a pertencer à 3ª Entrega.
 - 3ª Entrega: Data de Submissão: ~~décima quinta semana (**QUINTA-FEIRA 5.1.2023 àS 23:59**)~~ **SEXTA-FEIRA 13.1.2023 àS 23:59**) - 50%
 
 ### Avaliação Final
