@@ -89,9 +89,6 @@ No dia do exame os alunos farão a apresentação do projeto, da mesma forma que
 
 Para mais informações consultar o Briefing do Projeto em https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Briefing.md
 
-## Log
 
-2022.09.26 - [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md)
-2022.09.26 - Colocada a tarefa para a [Entrega da Proposta de Projeto no Canvas](https://mycampus.pt/courses/13374/assignments/16341). Data limite SEXTA-FEIRA 07.10.2021 às 23h59.
 
 
