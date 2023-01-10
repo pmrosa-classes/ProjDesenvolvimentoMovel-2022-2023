@@ -34,7 +34,33 @@ A entrega deve ser efetuado em PDF com um formato que inclui o identificador do 
 
 **Nota:** O que é descrito na primeira proposta poderá sofrer alterações ao longo do projeto. Quando forem significativas (introduzir ou retirar funcionalidades; alterar significativamente a componente tecnológica; etc) os grupos devem entregar **uma** segunda Proposta - a data indicativa para essa análise será até à 8ª semana do Projeeto. O formato do documento é o mesmo, o nome do ficheiro deve ser ex. **g01-proposta-v2.pdf**.
 
-## 4. Repositório Github
+## 2. Relatório Final do Projeto - formato de documento obrigatório
+
+A proposta deverá ter no máximo **12 páginas**, contando com o rosto e a bibliografia, podendo ter mais **2 páginas** com anexos, se necessário.
+
+Deve usar *font* maior ou igual a 11pt com espaçamento standard de linhas. Numerar as páginas adequadamente.
+
+Usar discurso direto e resumido (*less is more*). 
+
+Deve ser disponibilizada numa plataforma git (em PDF para download e outra versão em markup language no repositório) que deve incluir:
+1. Folha de rosto com identificação da Universidade, Faculdade, Elementos do Grupo, Nome do projeto e link para repositório de Github;
+2. Quadro com indicação das tarefas principais (linhas) e elementos do grupo (colunas) completanto o que cada elemento contribuiu para cada tarefa em percentagem (cada tarefa deve somar 100%)
+3. Breve descriçao da App e do problema que pretende resolver.
+4. Descrição dos objetivos e da motivação do trabalho a realizar.
+5. Identificação doo Público Alvo
+6. Pesquisa de mercado sobre aplicações semelhantes ou com as quais pode comparar.
+7. Descrição da solução implementada, incluindo:
+   1. Descrição genérica da solução implementada;
+   2. Enquadramento nas diversas Unidades Curriculares: 
+   3. Requisitos Técnicos finais para desenvolvimento do projeto;
+   4. Arquitetura da Solução;
+   5. Tecnologias a utilizadas;
+8. Deve ser incluído o planeamento e calendarização final, incluindo distribuição de tarefas (preferencialmente gráfico de Gantt);
+9. Bibliografia;
+
+A entrega deve ser efetuado em PDF com um formato que inclui o identificador do grupo e o tipo de documento, exemplo: **g01-relatorio-final.pdf**
+
+## 3. Repositório Github
 
 Os grupos devem manter atualizado o README.md do repositório de Github durante o desenvolvimento do trabalho.
 As propostas também deverão estar disponiveis no repositorio numa pasta identificada *Documentos*
