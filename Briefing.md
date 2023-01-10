@@ -146,7 +146,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
 - Presentation Date/Data da Apresentação: a agendar (uma semana a seguir à data de submissão)
 - Deliverables/Entregas:
   - Versão final do projeto com GUI e BD
-  - Versão atualizada do relatório de projeto (documento único para todas as unidades curriculares) na plataforma git:
+  - Utilizar obrigatoriamente este [Template Proposta de Projeto](https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023/blob/main/Template-Proposta.md) - documento único para todas as unidades curriculares na plataforma git:
     - Versão atualizada dos casos de utilização
     - Versão atualizada do diagrama de classes
     - Versão atualizada do Dicionário de Dados (documentação que descreve o modelo ER)
@@ -156,7 +156,7 @@ Nas diferentes Unidades Curriculares poderá haver outros momentos de avaliaçã
   - Ficheiros para a criação da BD (create, populate e queries) na plataforma git
   - Código fonte (código java) disponível no GitHub
   - Suporte visual da apresentação (PPT ou outro), que não pode ultrapassar os 8 slides de conteúdo (i.e. excluindo capa)
-  - VER!!! Vídeo de apresentação do projeto, com duração máxima de 2 minutos, que deve incluir um narrador a descrever o que se vai observando
+  - Vídeo de apresentação do projeto, com duração máxima de 2 minutos, que deve incluir um narrador a descrever o que se vai observando
   - Apresentação oral (duração máxima 10 minutos, incluindo o visionamento do vídeo), com recurso ao suporte visual previamente entregue
 - Avaliação (50%):
   - Progressos semanais
